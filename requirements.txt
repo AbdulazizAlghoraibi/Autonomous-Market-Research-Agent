@@ -1,0 +1,6 @@
+crewai
+langchain-google-genai
+langchain-community
+tavily-python
+streamlit
+python-dotenv
